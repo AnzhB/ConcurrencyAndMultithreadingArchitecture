@@ -1,4 +1,4 @@
-package com.epam.multithreading;
+package com.epam.multithreading.task6;
 
 import java.util.LinkedList;
 import java.util.Queue;
